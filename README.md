@@ -1,4 +1,4 @@
-# Django-Blogging_App
+# Django-Blogging-App
 ## A kind of basic Blogging App based on Django Framework named "MKM_BLOG".
 
 - ### HOME PAGE 
@@ -36,3 +36,5 @@
 
 - ### LOGOUT PAGE
 ![alt text](https://github.com/MohitKumarMandhre/Django-Blogging_App/blob/master/IMAGE_SET/Capture-logout.PNG)
+
+
