@@ -3,6 +3,13 @@
 
 - # WEBSITE LINK    https://mkmblogapp.herokuapp.com/
 
+- ## DATABASE USED
+- ### SQLite ( production purpose )
+- SQLite is a popular choice as embedded database software for local/client storage in application software such as web browsers. It is arguably the most widely deployed database engine, as it is used today by several widespread browsers, operating systems, and embedded systems (such as mobile phones), among others.
+
+- ### PostgreSQL  ( deployment purpose )
+- PostgreSQL is used as the primary data store or data warehouse for many web, mobile, geospatial, and analytics applications. The latest major version is PostgreSQL 12.
+
 - ### HOME PAGE 
 ![alt text](https://github.com/MohitKumarMandhre/Django-Blogging_App/blob/master/IMAGE_SET/Capture01.PNG)
 
