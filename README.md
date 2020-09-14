@@ -10,7 +10,7 @@
 - ### PostgreSQL  ( deployment purpose )
 - PostgreSQL is used as the primary data store or data warehouse for many web, mobile, geospatial, and analytics applications. The latest major version is PostgreSQL 12.
 
-- ##  DEPLOYED OVER Heroku: Cloud Application Platformwww.heroku.com
+- ##  DEPLOYED OVER Heroku: Cloud Application Platform
 -  Heroku is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps. Our platform is elegant, flexible, and easy to use, offering developers the simplest path to getting their apps to market.
 
 - ### HOME PAGE 
