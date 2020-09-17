@@ -1,7 +1,7 @@
 # Django-Blogging-App
 ## A kind of basic Blogging App based on Django Framework named "MKM_BLOG".
 
-- # WEBSITE LINK    https://mkmblogapp.herokuapp.com/
+- ## WEBSITE LINK    https://mkmblogapp.herokuapp.com/blog/
 
 - ## DATABASE USED
 - ### SQLite ( production purpose )
